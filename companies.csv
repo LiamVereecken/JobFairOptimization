@@ -1,85 +1,94 @@
-﻿Bedrijf;Sector;Exclusieve stand?
-Robert Half;Recruitment & Staffing;
-Federale Verzekering;Bank & Insurance;
-PwC;Consulting;
-Katoen Natie;P&L;
-ExxonMobil;Industry;ja
-INEOS;Industry;
-BNP Paribas;Bank & Insurance;
-PKF-VMB;Audit/Tax/Financial Consulting;
-StepStone;Recruitment & Staffing;ja
-Antwerp Management School;Others;
-PSA Antwerp;P&L;
-TriFinance;Audit/Tax/Financial Consulting;
-Zanders;Consulting;
-Janssen Pharmaceutica;Industry;
-RSM Inter Audit;Audit/Tax/Financial Consulting;
-Accenture;Consulting;
-BMW;Industry;
-PagePersonnel;Recruitment & Staffing;
-BDO;Consulting;ja
-AG Insurance;Bank & Insurance;
-Beobank;Bank & Insurance;
-Deloitte;Consulting;
-Epsa/A2BM;Consulting;
-EY;Consulting;
-IM Associates;Consulting;
-Mars;FMCG;
-Sia Partners;Consulting;
-Van Havermaet;Audit/Tax/Financial Consulting;
-PepsiCo;FMCG;ja
-Grant Thornton;Consulting;
-Milcobel;Others;
-Philip Morris International;Industry;
-The Business Analysts;IT;
-Delaware;Consulting;
-Bank J. Van Breda;Bank & Insurance;
-Colruyt Group;P&L;
-Pencil42;IT;
-Agile Information Factory;IT;
-Marsh;Bank & Insurance;
-Mobiliteitsmakelaar;Industry;
-KPMG;Consulting;ja
-Papilium;Consulting;
-Besix;Others;
-Datashift;IT;
-Chep;P&L;
-Nestlé;FMCG;
-Walters People;Recruitment & Staffing;
-Axis;Recruitment & Staffing;
-Finvision;Audit/Tax/Financial Consulting;
-Capgemini;Consulting;
-Vandelanotte Acc;Audit/Tax/Financial Consulting;ja
-Nielsen;Others;
-Henkel;FMCG;
-Odoo;IT;
-Ormit;Recruitment & Staffing;
-l'Oréal;FMCG;
-Lidl;FMCG;
-TATA Consultancy Services;IT;
-Credendo;Audit/Tax/Financial Consulting;
-Danone;FMCG;
-AXA;Bank & Insurance;
-KBC;Bank & Insurance;ja
-Titeca;Audit/Tax/Financial Consulting;
-Yuki;Audit/Tax/Financial Consulting;
-Bofidi;Audit/Tax/Financial Consulting;
-Scania;Industry;
-MediaGenixx;IT;
-Hays;Recruitment & Staffing;
-DXC Technology;IT;
-Baloise Insurance;Bank & Insurance;
-Cognizant;IT;
-Randstad;Recruitment & Staffing;
-Bluecrux;P&L;
-Mazars;Audit/Tax/Financial Consulting;
-Vlerick;Others;
-Arvesta/aveve;Industry;
-OM Partners;P&L;
-Soudal;Industry;
-RealDolmen;IT;
-ABC Business Schools;Others;
-Crossbridge;Others;
-AD Ultima;IT;
-Dimensys;IT;ja
-RBB Economics;IT;
+Bedrijf,Sector,Exclusieve stand?
+Robert Half,Recruitment & Staffing,
+Federale Verzekering,Bank & Insurance,
+PwC,Consulting,
+Katoen Natie,P&L,
+ExxonMobil,Industry,ja
+INEOS,Industry,
+BNP Paribas,Bank & Insurance,
+PKF-VMB,Audit/Tax/Financial Consulting,
+StepStone,Recruitment & Staffing,ja
+Antwerp Management School,Others,
+PSA Antwerp,P&L,
+TriFinance,Audit/Tax/Financial Consulting,
+Zanders,Consulting,
+Janssen Pharmaceutica,Industry,
+RSM Inter Audit,Audit/Tax/Financial Consulting,
+Accenture,Consulting,
+BMW,Industry,
+PagePersonnel,Recruitment & Staffing,
+BDO,Consulting,ja
+AG Insurance,Bank & Insurance,
+Beobank,Bank & Insurance,
+Deloitte,Consulting,
+Epsa/A2BM,Consulting,
+EY,Consulting,
+IM Associates,Consulting,
+Mars,FMCG,
+Sia Partners,Consulting,
+Van Havermaet,Audit/Tax/Financial Consulting,
+PepsiCo,FMCG,ja
+Grant Thornton,Consulting,
+Milcobel,Others,
+Philip Morris International,Industry,
+The Business Analysts,IT,
+Delaware,Consulting,
+Bank J. Van Breda,Bank & Insurance,
+Colruyt Group,P&L,
+Alken-Maes,,
+Pencil42,IT,
+Agile Information Factory,IT,
+Marsh,Bank & Insurance,
+Mobiliteitsmakelaar,Industry,
+KPMG,Consulting,ja
+Papilium,Consulting,
+Besix,Others,
+Datashift,IT,
+Chep,P&L,
+Nestlé,FMCG,
+Walters People,Recruitment & Staffing,
+Brussels Airport,,
+Axis,Recruitment & Staffing,
+Finvision,Audit/Tax/Financial Consulting,
+Capgemini,Consulting,
+Vandelanotte Acc,Audit/Tax/Financial Consulting,ja
+Nielsen,Others,
+Henkel,FMCG,
+Odoo,IT,
+Ormit,Recruitment & Staffing,
+l'Oréal,FMCG,
+Lidl,FMCG,
+TATA Consultancy Services,IT,
+Credendo,Audit/Tax/Financial Consulting,
+Danone,FMCG,
+AXA,Bank & Insurance,
+KBC,Bank & Insurance,ja
+Titeca,Audit/Tax/Financial Consulting,
+Yuki,Audit/Tax/Financial Consulting,
+Bofidi,Audit/Tax/Financial Consulting,
+Scania,Industry,
+MediaGenixx,IT,
+Hays,Recruitment & Staffing,
+DXC Technology,IT,
+Baloise Insurance,Bank & Insurance,
+Cognizant,IT,
+Elia,,ja
+Randstad,Recruitment & Staffing,
+Bluecrux,P&L,
+Mazars,Audit/Tax/Financial Consulting,
+Vlerick,Others,
+Arvesta/aveve,Industry,
+OM Partners,P&L,
+Soudal,Industry,
+aon,,
+Simon Kucher & Partners,,
+RealDolmen,IT,
+ABC Business Schools,Others,
+Crossbridge,Others,
+AD Ultima,IT,
+Burgerbrands,,
+JLL,,
+Ekonomika Alumni,,
+Threon,,
+Dimensys,IT,ja
+RBB Economics,IT,

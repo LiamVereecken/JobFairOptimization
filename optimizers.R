@@ -32,13 +32,13 @@ randomlotcompany <- function(companies, lotsInput) {
     for (r in 1:nrow(lots))
       if (!is.na(lots[r, c]) & lots[r, c] == '')
         emptyLots = rbind(emptyLots, c(r, c))
-  cat(
-    "empty lots:",
-    nrow(emptyLots),
-    " unassigned companies:",
-    nrow(unassignedCompanies),
-    '\n'
-  )
+  # cat(
+  #   "empty lots:",
+  #   nrow(emptyLots),
+  #   " unassigned companies:",
+  #   nrow(unassignedCompanies),
+  #   '\n'
+  # )
   while (nrow(emptyLots) > 0 & nrow(unassignedCompanies) > 0) {
     lot = sample(1:nrow(emptyLots), 1)
     r = emptyLots[lot, 1]
@@ -56,13 +56,13 @@ randomlotcompany <- function(companies, lotsInput) {
     }
     lots[r, c] = unassignedCompanies[company, ]$company
     unassignedCompanies = unassignedCompanies[-company,]
-    cat(
-      "empty lots:",
-      nrow(emptyLots),
-      " unassigned companies:",
-      nrow(unassignedCompanies),
-      '\n'
-    )
+    # cat(
+    #   "empty lots:",
+    #   nrow(emptyLots),
+    #   " unassigned companies:",
+    #   nrow(unassignedCompanies),
+    #   '\n'
+    # )
   }
   cat("1")
   if (nrow(unassignedCompanies) > 0) {
@@ -92,13 +92,13 @@ biggestsectorsfirst <- function(companies, lotsInput) {
     for (r in 1:nrow(lots))
       if (!is.na(lots[r, c]) & lots[r, c] == '')
         emptyLots = rbind(emptyLots, c(r, c))
-  cat(
-    "empty lots:",
-    nrow(emptyLots),
-    " unassigned companies:",
-    nrow(unassignedCompanies),
-    '\n'
-  )
+  # cat(
+  #   "empty lots:",
+  #   nrow(emptyLots),
+  #   " unassigned companies:",
+  #   nrow(unassignedCompanies),
+  #   '\n'
+  # )
   for (i in 1:nrow(unassignedCompanies)) {
     assigned = F
     for (n in sample(1:nrow(emptyLots))) {
@@ -108,13 +108,13 @@ biggestsectorsfirst <- function(companies, lotsInput) {
         lots[r, c] = unassignedCompanies[i,]$company
         emptyLots = emptyLots[-n,]
         assigned = T
-        cat(
-          "empty lots:",
-          nrow(emptyLots),
-          " unassigned companies:",
-          nrow(unassignedCompanies) - i,
-          '\n'
-        )
+        # cat(
+        #   "empty lots:",
+        #   nrow(emptyLots),
+        #   " unassigned companies:",
+        #   nrow(unassignedCompanies) - i,
+        #   '\n'
+        # )
         break
         
       }
